@@ -1,0 +1,48 @@
+57224956_lin_100_AVG
+Power_divergenceResult(statistic=401.0000000000001, pvalue=0.9995864479155078)
+Unique numbers generated: 100
+The present of possible output covered is: 10.00%%
+57224956_lin_1000_AVG
+Power_divergenceResult(statistic=2020.0280000000002, pvalue=2.7868686613654136e-181)
+Unique numbers generated: 166
+The present of possible output covered is: 16.60%%
+57224956_lin_10000_AVG
+Power_divergenceResult(statistic=20182.243999999995, pvalue=0.0)
+Unique numbers generated: 166
+The present of possible output covered is: 16.60%%
+57224956_lin_10000000_AVG
+Power_divergenceResult(statistic=20180722.891855992, pvalue=0.0)
+Unique numbers generated: 166
+The present of possible output covered is: 16.60%%
+57224956_lag_100_AVG
+Power_divergenceResult(statistic=501.2, pvalue=0.4764773752653592)
+Unique numbers generated: 90
+The present of possible output covered is: 9.00%%
+57224956_lag_1000_AVG
+Power_divergenceResult(statistic=1110.2120000000002, pvalue=2.6052551135478434e-48)
+Unique numbers generated: 344
+The present of possible output covered is: 34.40%%
+57224956_lag_10000_AVG
+Power_divergenceResult(statistic=7962.052399999999, pvalue=0.0)
+Unique numbers generated: 393
+The present of possible output covered is: 39.30%%
+57224956_lag_10000000_AVG
+Power_divergenceResult(statistic=7948191.456145399, pvalue=0.0)
+Unique numbers generated: 393
+The present of possible output covered is: 39.30%%
+57224956_mdl_100_AVG
+Power_divergenceResult(statistic=481.15999999999997, pvalue=0.7198089652081128)
+Unique numbers generated: 92
+The present of possible output covered is: 9.20%%
+57224956_mdl_1000_AVG
+Power_divergenceResult(statistic=51440.67200000001, pvalue=0.0)
+Unique numbers generated: 369
+The present of possible output covered is: 36.90%%
+57224956_mdl_10000_AVG
+Power_divergenceResult(statistic=4342821.8671999965, pvalue=0.0)
+Unique numbers generated: 369
+The present of possible output covered is: 36.90%%
+57224956_mdl_10000000_AVG
+Power_divergenceResult(statistic=4999319665.179867, pvalue=0.0)
+Unique numbers generated: 369
+The present of possible output covered is: 36.90%%
